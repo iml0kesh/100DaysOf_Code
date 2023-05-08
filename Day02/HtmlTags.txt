@@ -1,0 +1,16 @@
+Heading tags 
+    <h1> </h1> : Heading One Tag
+    <h2> </h2> : Heading Two Tag
+    <h3> </h3> : Heading Three Tag
+    <h4> </h4> : Heading Four Tag
+    <h5> </h5> : Heading Five Tag
+    <h6> </h6> : Heading Six Tag
+
+Paragraph Tag : <p> </p>
+
+HTML ATTRIBUTES:
+    : style : to set Css for the element.
+    : 
+
+Reference : https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+Reference : https://developer.mozilla.org/en-US/docs/Web/CSS
